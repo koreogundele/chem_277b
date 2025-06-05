@@ -2,3 +2,5 @@
 # Code based on chapter 4 of Deep Learning for the Life Sciences: Applying Deep Learning to Genomics, Microscopy, Drug Discovery, and More by Bharath Ramsundar
 
 import deepchem as dc
+
+# I am taking a break from this project and will continue this code mid-June 2025
